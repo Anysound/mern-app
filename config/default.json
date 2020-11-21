@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "anysoundSecretStringInAppMern",
+  "mongoURI": "mongodb+srv://anysound:12345@cluster0.7cinq.azure.mongodb.net/mern-app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
